@@ -8,3 +8,6 @@ C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\bin\
 C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\bin\x64\Release\System.Management.Automation.dll
 C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\obj\x64\Release\WFCopyInfo.exe
 C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\obj\x64\Release\WFCopyInfo.pdb
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\bin\x64\Release\WFCopyInfo.exe.config
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Release\WFCopyInfo.exe
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Release\WFCopyInfo.pdb

@@ -8,3 +8,12 @@ C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\obj\
 C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.csproj.GenerateResource.Cache
 C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.exe
 C:\Users\felipe\Documents\Visual Studio 2015\Projects\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.pdb
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\bin\x64\Debug\WFCopyInfo.exe.config
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.exe
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.pdb
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\bin\x64\Debug\WFCopyInfo.exe
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\bin\x64\Debug\WFCopyInfo.pdb
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.csprojResolveAssemblyReference.cache
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.frmCopy.resources
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.Properties.Resources.resources
+C:\Users\felipe\Documents\GitHub\WFCopyToPendrive\src\WFCopyInfo\WFCopyInfo\obj\x64\Debug\WFCopyInfo.csproj.GenerateResource.Cache
